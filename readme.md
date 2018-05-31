@@ -4,9 +4,17 @@
 
 > about modules size with node_modules hole
 
----
+<details>
 
-本目录
+<summary>
+My Computer node_modules hole 🌞
+</summary>
+
+![my](./my/my-computer-18-5-31.png)
+
+</details>
+
+---
 
 - [vue-cli](#vue-cli)
 - [ava](#ava)
