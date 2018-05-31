@@ -15,14 +15,14 @@
 
 ### vue-cli
 
-- vue-cli@3.0.0-beta.15
+- [vue-cli@3.0.0-beta.15](https://github.com/vuejs/vue-cli/tree/v3.0.0-beta.15)
 
 ![vue-cli@3.0.0-beta.15](./vue-cli/vue-cli@3.0.0-beta.15.png)
 
 
 ### ava
 
-- ava@1.0.0-beta.4
+- [ava@1.0.0-beta.4](https://github.com/avajs/ava/tree/v1.0.0-beta.4)
 
 ![ava@1.0.0-beta.4](./ava/ava@1.0.0-beta.4.png)
 
