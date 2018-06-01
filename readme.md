@@ -30,6 +30,10 @@ My Computer node_modules hole 🌞
 
 ### ava
 
+- [ava@v1.0.0-beta.5](https://github.com/avajs/ava/tree/v1.0.0-beta.5)
+
+![ava@1.0.0-beta.5](./ava/ava@1.0.0-beta.5.png)
+
 - [ava@1.0.0-beta.4](https://github.com/avajs/ava/tree/v1.0.0-beta.4)
 
 ![ava@1.0.0-beta.4](./ava/ava@1.0.0-beta.4.png)
