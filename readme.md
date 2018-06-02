@@ -14,10 +14,18 @@ My Computer node_modules hole 🌞
 
 </details>
 
-<!-- START doctoc -->
-<!-- END doctoc -->
-
 ---
+
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+
+
+- [vue-cli](#vue-cli)
+- [ava](#ava)
+- [kap](#kap)
+- [Use  node-modules-size](#use--node-modules-size)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
 ### vue-cli
 
@@ -46,4 +54,4 @@ My Computer node_modules hole 🌞
 
 ---
 
-## Use  [node-modules-size](https://github.com/chinanf-boy/node-modules-size)
+### Use  [node-modules-size](https://github.com/chinanf-boy/node-modules-size)
