@@ -51,6 +51,13 @@ My Computer node_modules hole 🌞
 
 ![kap@2.1.2](./kap/kap@2.1.2.png)
 
+### hyper
+
+- [hyper@2.1.0-canary.1](https://github.com/zeit/hyper/tree/2.1.0-canary.1)
+
+![hyper@2.1.0-canary.1](./hyper/hyper@2.1.0-canary.1.png)
+
+
 
 ---
 
