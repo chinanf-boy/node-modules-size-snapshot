@@ -23,6 +23,7 @@ My Computer node_modules hole 🌞
 - [vue-cli](#vue-cli)
 - [ava](#ava)
 - [kap](#kap)
+- [hyper](#hyper)
 - [Use  node-modules-size](#use--node-modules-size)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->

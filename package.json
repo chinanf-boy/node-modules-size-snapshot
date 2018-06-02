@@ -5,7 +5,8 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "doc": "doctoc ."
+    "doc": "doctoc .",
+    "git": "npm run doc && git add * && git commit -m 'Up doctoc' && git push"
   },
   "repository": {
     "type": "git",
