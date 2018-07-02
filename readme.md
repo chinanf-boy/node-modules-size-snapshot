@@ -24,6 +24,7 @@ My Computer node_modules hole 🌞
 - [ava](#ava)
 - [kap](#kap)
 - [hyper](#hyper)
+- [vscode](#vscode)
 - [Use  node-modules-size](#use--node-modules-size)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
@@ -58,6 +59,11 @@ My Computer node_modules hole 🌞
 
 ![hyper@2.1.0-canary.1](./hyper/hyper@2.1.0-canary.1.png)
 
+### vscode
+
+- [package.json==1.26](https://github.com/Microsoft/vscode/tree/fd4bf73a031cbe1135e7cde3b3386627a92fe601)
+
+![package.json==1.26](./vscode/vscode@1.26.png)
 
 
 ---
