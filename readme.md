@@ -20,12 +20,14 @@ My Computer node_modules hole 🌞
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 
 
-- [vue-cli](#vue-cli)
-- [ava](#ava)
-- [kap](#kap)
-- [hyper](#hyper)
-- [vscode](#vscode)
-- [Use  node-modules-size](#use--node-modules-size)
+  - [vue-cli](#vue-cli)
+  - [ava](#ava)
+  - [kap](#kap)
+  - [hyper](#hyper)
+  - [vscode](#vscode)
+- [Tips](#tips)
+- [Live](#live)
+  - [Use  node-modules-size output path and size info](#use--node-modules-size-output-path-and-size-info)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
