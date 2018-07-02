@@ -68,4 +68,18 @@ My Computer node_modules hole 🌞
 
 ---
 
-### Use  [node-modules-size](https://github.com/chinanf-boy/node-modules-size)
+## Tips 
+
+Can use partner of https://github.com/junegunn/fzf 
+
+```
+node-modules-size | fzf
+```
+
+Search what you want
+
+## Live
+
+[help me live , live need money 💰](https://github.com/chinanf-boy/live-need-money)
+
+### Use  [node-modules-size](https://github.com/chinanf-boy/node-modules-size) output path and size info
