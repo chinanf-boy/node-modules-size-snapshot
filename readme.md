@@ -1,6 +1,6 @@
 # snapshot
 
-「 快照 」
+「 项目 node-modules 大小快照 」
 
 > about modules size with node_modules hole
 
@@ -21,6 +21,7 @@ My Computer node_modules hole 🌞
 
 
   - [vue-cli](#vue-cli)
+  - [vuepress](#vuepress)
   - [ava](#ava)
   - [kap](#kap)
   - [hyper](#hyper)
@@ -31,14 +32,38 @@ My Computer node_modules hole 🌞
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
-### vue-cli
+
+### vue-cli 
+
+[![vue-cli-stars]][vue-cli]
+
+[vue-cli-stars]: https://img.shields.io/github/stars/vuejs/vue-cli.svg
+[vue-cli]: https://github.com/vuejs/vue-cli
 
 - [vue-cli@3.0.0-beta.15](https://github.com/vuejs/vue-cli/tree/v3.0.0-beta.15)
 
 ![vue-cli@3.0.0-beta.15](./vue-cli/vue-cli@3.0.0-beta.15.png)
 
 
-### ava
+
+### vuepress 
+
+[![vuepress-stars]][vuepress]
+
+[vuepress-stars]: https://img.shields.io/github/stars/vuejs/vuepress.svg
+[vuepress]: https://github.com/vuejs/vuepress
+
+- [vuepress@0.12.0](https://github.com/vuejs/vuepress/tree/v0.12.0)
+
+![vuepress@0.12.0](./vuepress/vuepress@0.12.0.png)
+
+
+### ava 
+
+[![ava-stars]][ava]
+
+[ava-stars]: https://img.shields.io/github/stars/avajs/ava.svg
+[ava]: https://github.com/avajs/ava
 
 - [ava@v1.0.0-beta.5](https://github.com/avajs/ava/tree/v1.0.0-beta.5)
 
@@ -49,19 +74,34 @@ My Computer node_modules hole 🌞
 ![ava@1.0.0-beta.4](./ava/ava@1.0.0-beta.4.png)
 
 
-### kap
+### kap 
+
+[![kap-stars]][kap]
+
+[kap-stars]: https://img.shields.io/github/stars/wulkano/kap.svg
+[kap]: https://github.com/wulkano/kap
 
 - [kap@2.1.2](https://github.com/wulkano/kap/tree/v2.1.2)
 
 ![kap@2.1.2](./kap/kap@2.1.2.png)
 
-### hyper
+### hyper 
+
+[![hyper-stars]][hyper]
+
+[hyper-stars]: https://img.shields.io/github/stars/zeit/hyper.svg
+[hyper]: https://github.com/zeit/hyper
 
 - [hyper@2.1.0-canary.1](https://github.com/zeit/hyper/tree/2.1.0-canary.1)
 
 ![hyper@2.1.0-canary.1](./hyper/hyper@2.1.0-canary.1.png)
 
-### vscode
+### vscode 
+
+[![vscode-stars]][vscode]
+
+[vscode-stars]: https://img.shields.io/github/stars/Microsoft/vscode.svg
+[vscode]: https://github.com/Microsoft/vscode
 
 - [package.json==1.26](https://github.com/Microsoft/vscode/tree/fd4bf73a031cbe1135e7cde3b3386627a92fe601)
 
